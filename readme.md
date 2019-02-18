@@ -18,3 +18,9 @@
 + 效果: [https://zhulf.com/web/love/](https://zhulf.com/web/love/)
 + 参考: [https://github.com/codeforloving/codeforloving.github.io](https://github.com/codeforloving/codeforloving.github.io)
 
+#### 蝴蝶飞呀
+
++ 代码: [https://github.com/zhulf0804/Web-Special-Effects/tree/master/butterFlies](https://github.com/zhulf0804/Web-Special-Effects/tree/master/butterFlies)
++ 效果: [https://zhulf.com/web/butterFlies/](https://zhulf.com/web/butterFlies/)
++ 参考: [https://github.com/gnipbao/h5-test/tree/gh-pages/src/Svg-demo/butterFlies](https://github.com/gnipbao/h5-test/tree/gh-pages/src/Svg-demo/butterFlies)
+
