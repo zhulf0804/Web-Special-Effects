@@ -10,7 +10,7 @@
 
 + 代码: [https://github.com/zhulf0804/Web-Special-Effects/tree/master/Christmas_tree](https://github.com/zhulf0804/Web-Special-Effects/tree/master/Christmas_tree)
 + 效果: [https://zhulf.com/web/Christmas_tree/](https://zhulf.com/web/Christmas_tree/)
-+ 参考: [forget](forget)
++ 参考: [https://github.com/hakimel/DOM-Tree](https://github.com/hakimel/DOM-Tree)
 
 #### 表白
 
